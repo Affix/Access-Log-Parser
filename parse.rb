@@ -4,7 +4,7 @@ require 'date'
 
 log = []
 errors = []
-puts "SkyScanner Access Log Parser"
+puts "Access Log Parser"
 
 if !ARGV[0]
 	puts "Usage: parse.rb <access.log>"
