@@ -4,7 +4,7 @@ require 'date'
 
 log = []
 errors = []
-puts "Access Log Parser"
+puts "Apache Access Log Parser"
 
 if !ARGV[0]
 	puts "Usage: parse.rb <access.log>"
