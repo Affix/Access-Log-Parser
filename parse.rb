@@ -44,5 +44,3 @@ puts "Successful RPM : #{success_rpm}"
 puts "Error RPM      : #{errors_rpm}"
 puts "Total MB Sent  : #{megabytes_sent}mb (#{bytes_sent} bytes)"
 puts "Mean Response  : #{total_response_time / log.count}µs"
-
-puts log.first
