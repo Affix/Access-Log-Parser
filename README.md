@@ -13,13 +13,6 @@ Requirements
 Usage
 -----
 [user@computer ~]# ./parse.rb access.log
-Apache Access Log Parser
-Total Requests : 318655
-Successful RPM : 1035
-Error RPM      : 2
-Total MB Sent  : 4924mb (5163689655 bytes)
-Mean Response  : 356946µs
-
 
 Contributing
 ------------
